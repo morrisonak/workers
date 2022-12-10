@@ -26,7 +26,7 @@ export default function Index() {
       <div className="sm:px-10 p-5">
         <h2 className="mt-6 text-xl">{title}</h2>
         <p className="py-2">
-          All-in-one remix starter template for Cloudflare Workers
+          All-in-one remix starter template for Cloudflare Workers dec 2022
         </p>
 
         <a
